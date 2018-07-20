@@ -11,7 +11,7 @@ Clone this repository.
 
 To run the browser with the existing example, go to the Browser directory and run CountingGridsDesktop.exe or runCG.cmd. The browser may crash if the files in the directory for the dataset are incomplete.
 
-To turn your data into files for the browser, edit and run main.m from Matlab. The input file should be in the directory Input and contain up to three tab-delimited columns as in our example dictionarySample.txt. The three columns are the title, abstract, and a link to the document (to enable following the link to document metadata). The output files will be stored in a subdirectory of Browser/Data (e.g. dictionarySample). The input/output names can be specified in main.m (just add the appropriately formated and name file into Input directory, and run main.m).
+To turn your data into files for the browser, edit and run main.m from Matlab. The input file should be in the directory Input and contain up to three tab-delimited columns as in our example dictionarySample.txt. The three columns are the title, abstract, and a link to the document (to enable following the link to document metadata). The output files will be stored in a subdirectory of Browser/Data (e.g. dictionarySample). The input/output names can be specified in main.m. Just add the appropriately formatted and named files into Input directory and run main.m.
 
 
 Limitations
