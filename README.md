@@ -1,4 +1,4 @@
-OpenCG – Counting Grids for Unsupervised Document Analysis
+OpenCG: Counting Grids for Unsupervised Document Analysis
 ==================================
 OpenCG is machine learning system for understanding and exploring natural language. The system ships with an oﬀ-the-shelf implementation of training a counting grid model. It also includes visualization software to explore text data using the model.
 
