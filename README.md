@@ -2,7 +2,7 @@ OpenCG
 ==================================
 **OpenCG** is an unsupervised learning system for understanding and exploring natural language documents using counting grids. The system ships with an oﬀ-the-shelf implementation of training a counting grid model. It also includes visualization software to explore text data using the model.
 
-Counting grid learning and visualization code here is available for research purposes. The code was originally developed by Nebojsa Jojic, Alessandro Perina (the learning algorithms) and Andrzej Turski, Spencer Buja, Nebojsa Jojic, and  Alessandro Perina (the counting grid browser) at Microsoft.
+Counting grid learning and visualization code is available for research purposes only. The code was originally developed by Nebojsa Jojic, Alessandro Perina (the learning algorithms) and Andrzej Turski, Spencer Buja, Nebojsa Jojic, and  Alessandro Perina (the counting grid browser) at Microsoft.
 
 Installation
 --------
