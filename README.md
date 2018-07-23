@@ -8,17 +8,20 @@ Installation
 --------
 
 Clone this repository.
-'''
+```
 git clone REPOLINK
-'''
+```
 
 **The Browser**
+
 To run the browser with the existing example, go to the Browser directory and run CountingGridsDesktop.exe or runCG.cmd. The browser may crash if the files in the directory for the dataset are incomplete.
 
 **Learning**
+
 To turn your data into files for the browser, edit and run main.m from Matlab. The input file should be in the directory Input and contain up to three tab-delimited columns as in our example dictionarySample.txt. The three columns are the title, abstract, and a link to the document (to enable following the link to document metadata). The output files will be stored in a subdirectory of Browser/Data (e.g. dictionarySample). The input/output names can be specified in main.m. Just add the appropriately formatted and named files into Input directory and run main.m.
 
 **Learning for Windows Users**
+
 If you are on Windows, you can run the learning code without installing Matlab. We ship an executable (main.exe) that installs the necessary dependency for the program to run.
 
 Run main.exe as you would main.m. Follow the instructions in the Learning section above.
