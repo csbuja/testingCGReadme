@@ -24,7 +24,7 @@ To turn your data into files for the browser, edit and run main.m from Matlab. T
 
 If you are on Windows, you can run the learning code without installing Matlab. We ship an executable (main.exe) that installs the necessary dependency for the program to run.
 
-First, run main_installer. Then, move main.exe to same directory as main.m. 
+First, run main_installer.exe. Then, move main.exe to same directory as main.m. 
 
 Run main.exe. Follow the instructions in the Learning section above.
 
