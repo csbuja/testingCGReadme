@@ -32,7 +32,7 @@ While dataset size limitations may be of issue in many cases, we hope that simpl
 
 Platform Support
 --------
-Though the learning code is platform agnostic, the visualization code is a Windows Presentation Foundation (WPF) application. WPF apps will only run on Windows. We are developing a new visualization tool for the web.
+Though the learning code is (mostly) platform agnostic, the visualization code is a Windows Presentation Foundation (WPF) application. WPF apps will only run on Windows. We are developing a new visualization tool for the web.
 
 
 Contribution
